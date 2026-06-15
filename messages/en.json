@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Trusted by 10,000+ teams worldwide",
+    "title_1": "Run your business",
+    "title_2": "in any language",
+    "subtitle": "SmartBiz is the all-in-one platform built for Arabic and English teams. Manage, collaborate, and grow — without switching tools.",
+    "cta_primary": "Start for free",
+    "cta_secondary": "Watch demo",
+    "stat1_num": "10K+",
+    "stat1_label": "Active teams",
+    "stat2_num": "99.9%",
+    "stat2_label": "Uptime",
+    "stat3_num": "150+",
+    "stat3_label": "Countries"
+  },
+  "logos": {
+    "label": "Trusted by teams at"
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Everything your team needs",
+    "subtitle": "One platform. Every tool. Built for the Arab world and beyond.",
+    "card1_title": "Real-time Analytics",
+    "card1_desc": "Live dashboards that update instantly. Track KPIs, spot trends, and make decisions backed by data — not guesswork.",
+    "card2_title": "Team Collaboration",
+    "card2_desc": "Built-in chat, task boards, and file sharing. Your team stays aligned whether they're in Riyadh, Cairo, or London.",
+    "card3_title": "Enterprise Security",
+    "card3_desc": "SOC 2 certified, end-to-end encrypted, and GDPR compliant. Your data stays yours — always.",
+    "card4_title": "Smart Automation",
+    "card4_desc": "Automate repetitive tasks with no-code workflows. Save hours every week and focus on what matters.",
+    "card5_title": "Bilingual by default",
+    "card5_desc": "Every feature works perfectly in Arabic and English, with full RTL support built in from day one.",
+    "card6_title": "Integrations",
+    "card6_desc": "Connect to 200+ tools including Slack, Salesforce, and SAP. Your stack, unified."
+  },
+  "how": {
+    "badge": "How it works",
+    "title": "Up and running in minutes",
+    "step1_title": "Create your workspace",
+    "step1_desc": "Sign up and set your preferred language. Your entire team can use their own language independently.",
+    "step2_title": "Invite your team",
+    "step2_desc": "Add members, assign roles, and set permissions. Works across Arabic and English speakers seamlessly.",
+    "step3_title": "Start collaborating",
+    "step3_desc": "Use dashboards, tasks, and reports — all in real time, in the language your team is most comfortable with."
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Loved by teams across the region",
+    "t1_quote": "SmartBiz cut our reporting time by 60%. The Arabic interface is as polished as the English one — that alone was the deciding factor for us.",
+    "t1_name": "Sara Al-Otaibi",
+    "t1_role": "Operations Director, Riyadh",
+    "t2_quote": "Finally a platform that doesn't treat Arabic as an afterthought. Our team adopted it in days, not months.",
+    "t2_name": "Ahmed Mansour",
+    "t2_role": "CTO, Cairo",
+    "t3_quote": "The automation features saved us 15 hours a week. The bilingual support means our whole team — Arabic and English speakers — works in one place.",
+    "t3_name": "Layla Hassan",
+    "t3_role": "Product Lead, Dubai"
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "title": "Simple, transparent pricing",
+    "subtitle": "No hidden fees. Cancel anytime.",
+    "plan1_name": "Starter",
+    "plan1_price": "$0",
+    "plan1_period": "/ month",
+    "plan1_desc": "Perfect for small teams getting started.",
+    "plan2_name": "Pro",
+    "plan2_price": "$49",
+    "plan2_period": "/ month",
+    "plan2_desc": "For growing teams that need more power.",
+    "plan2_badge": "Most popular",
+    "plan3_name": "Enterprise",
+    "plan3_price": "Custom",
+    "plan3_period": "",
+    "plan3_desc": "Tailored for large organizations.",
+    "cta": "Get started",
+    "contact_sales": "Contact sales",
+    "feature_users_1": "Up to 5 users",
+    "feature_users_2": "Unlimited users",
+    "feature_users_3": "Unlimited users",
+    "feature_analytics": "Basic analytics",
+    "feature_analytics_pro": "Advanced analytics",
+    "feature_support": "Email support",
+    "feature_support_pro": "Priority support",
+    "feature_rtl": "Full RTL support",
+    "feature_sso": "SSO & SAML",
+    "feature_sla": "99.99% SLA"
+  },
+  "cta_section": {
+    "title": "Ready to get started?",
+    "subtitle": "Join 10,000+ teams already using SmartBiz.",
+    "cta_primary": "Start for free",
+    "cta_secondary": "Talk to sales"
+  },
+  "footer": {
+    "description": "The all-in-one platform for Arabic and English teams.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "features": "Features",
+    "pricing": "Pricing",
+    "changelog": "Changelog",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "All rights reserved."
+  },
+  "localeSwitcher": {
+    "en": "English",
+    "ar": "العربية"
+  }
+}
