@@ -17,7 +17,7 @@ export default async function Features({ locale }: { locale: Locale }) {
   const t = await getTranslations({ locale, namespace: 'features' });
 
   return (
-    <section id="features" className="bg-white py-28 px-6">
+    <section id="features" className="bg-white py-12 px-6">
       <div className="max-w-6xl mx-auto">
 
         <div className="text-center mb-16">

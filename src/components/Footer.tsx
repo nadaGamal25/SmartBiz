@@ -13,9 +13,9 @@ export default async function Footer({ locale }: { locale: Locale }) {
   ];
 
   return (
-    <footer className="bg-white border-t border-gray-100 py-16 px-6">
+    <footer className="bg-white border-t border-gray-100 py-10 px-6">
       <div className="max-w-6xl mx-auto">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-12 mb-16">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-12 mb-10">
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="text-xl font-bold text-gray-900">
               Smart<span className="text-indigo-600">Biz</span>
@@ -37,7 +37,7 @@ export default async function Footer({ locale }: { locale: Locale }) {
             </div>
           ))}
         </div>
-        <div className="border-t border-gray-100 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="border-t border-gray-100 pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-gray-400">© 2026 SmartBiz. {t('rights')}</p>
           <div className="flex items-center gap-4">
             {['𝕏', 'in', 'f'].map((icon) => (

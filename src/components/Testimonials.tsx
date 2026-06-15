@@ -14,7 +14,7 @@ export default async function Testimonials({ locale }: { locale: Locale }) {
   ] as const;
 
   return (
-    <section className="bg-gray-50 py-28 px-6">
+    <section className="bg-gray-50 py-12 px-6">
       <div className="max-w-6xl mx-auto">
 
         <div className="text-center mb-16">

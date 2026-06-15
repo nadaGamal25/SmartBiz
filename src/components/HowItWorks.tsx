@@ -12,7 +12,7 @@ export default async function HowItWorks({ locale }: { locale: Locale }) {
   ] as const;
 
   return (
-    <section className="bg-[#0A0F1E] py-28 px-6">
+    <section className="bg-[#0A0F1E] py-12 px-6">
       <div className="max-w-6xl mx-auto">
 
         <div className="text-center mb-16">

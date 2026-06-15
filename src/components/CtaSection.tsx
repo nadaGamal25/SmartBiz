@@ -7,7 +7,7 @@ export default async function CtaSection({ locale }: { locale: Locale }) {
   const t = await getTranslations({ locale, namespace: 'cta_section' });
 
   return (
-    <section className="bg-[#0A0F1E] py-28 px-6 relative overflow-hidden">
+    <section className="bg-[#0A0F1E] py-12 px-6 relative overflow-hidden">
       <div className="absolute inset-0 -z-0">
         <div className="absolute top-1/2 start-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[400px] bg-indigo-600/20 rounded-full blur-3xl" />
       </div>
